@@ -9,3 +9,12 @@ E:\Users\xavier\Desktop\Socket\Client\Client\obj\x86\Debug\Client.exe
 E:\Users\xavier\Desktop\Socket\Client\Client\obj\x86\Debug\Client.pdb
 E:\Users\xavier\Desktop\Socket\Compiled\Client.exe
 E:\Users\xavier\Desktop\Socket\Compiled\Client.pdb
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\Compiled\Client.exe
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\Compiled\Client.pdb
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#\Client\obj\x86\Debug\Client.Form1.resources
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#\Client\obj\x86\Debug\Client.exe
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#\Client\obj\x86\Debug\Client.pdb

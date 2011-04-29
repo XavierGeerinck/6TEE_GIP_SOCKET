@@ -9,3 +9,8 @@ E:\Users\xavier\Desktop\SocketC#\SocketC#\Server\Server\obj\x86\Debug\Server.exe
 E:\Users\xavier\Desktop\SocketC#\SocketC#\Server\Server\obj\x86\Debug\Server.pdb
 E:\UNFORGIVENWOW\Google Git\SocketC#\SocketC#\Server\obj\x86\Debug\Server.exe
 E:\UNFORGIVENWOW\Google Git\SocketC#\SocketC#\Server\obj\x86\Debug\Server.pdb
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#\Server\obj\x86\Debug\Server.exe
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#\Server\obj\x86\Debug\Server.pdb
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\Compiled\Server.exe
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\Compiled\Server.pdb
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
