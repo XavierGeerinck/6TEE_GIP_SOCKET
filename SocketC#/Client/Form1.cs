@@ -58,7 +58,8 @@ namespace Client
 
         private void button1_Click(object sender, EventArgs e)
         {
-            byte[] outStream = System.Text.Encoding.ASCII.GetBytes(richTextBox1.Text + "$");
+            byte[] outStream = System.Text.Encoding.ASCII.GetBytes((richTextBox1.Text + "$"));
+            richTextBox2.AppendText("Encrypted Text: " + Client.Cryption.Crypter.Encrypt((richTextBox1.Text + "$"), "5") + "\n");
             serverStream.Write(outStream, 0, outStream.Length);
             serverStream.Flush();
         }

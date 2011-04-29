@@ -3,6 +3,7 @@ using System.Threading;
 using System.Net.Sockets;
 using System.Text;
 using System.Collections;
+using System.Security.Cryptography;
 
 namespace Server.Network
 {
@@ -36,9 +37,11 @@ namespace Server.Network
                     counter += 1;
                     clientSocket = serverSocket.AcceptTcpClient();
 
+                    //Sla de data op die ontvangen wordt.
                     byte[] bytesFrom = new byte[10025];
                     string dataFromClient = null;
 
+                    //VDe gevonden data omzetten van ASCII naar string.
                     NetworkStream networkStream = clientSocket.GetStream();
                     networkStream.Read(bytesFrom, 0, (int)clientSocket.ReceiveBufferSize);
                     dataFromClient = System.Text.Encoding.ASCII.GetString(bytesFrom);
@@ -47,7 +50,6 @@ namespace Server.Network
                     clientsList.Add(dataFromClient, clientSocket);
 
                     Server.User.BroadCast.broadcast(dataFromClient + " Joined ", dataFromClient, false);
-                    Console.WriteLine();
                     Server.Logger.addlog(dataFromClient + " Joined chat room ", Server.Logger.LogType.User);
                     handleClinet client = new handleClinet();
                     client.startClient(clientSocket, dataFromClient, clientsList);
