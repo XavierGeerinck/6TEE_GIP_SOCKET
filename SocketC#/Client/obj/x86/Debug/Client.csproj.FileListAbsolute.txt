@@ -1,0 +1,11 @@
+E:\Users\xavier\Desktop\Socket\Client\Client\bin\Debug\Client.exe
+E:\Users\xavier\Desktop\Socket\Client\Client\bin\Debug\Client.pdb
+E:\Users\xavier\Desktop\Socket\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\xavier\Desktop\Socket\Client\Client\obj\x86\Debug\Client.Form1.resources
+E:\Users\xavier\Desktop\Socket\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\Users\xavier\Desktop\Socket\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Users\xavier\Desktop\Socket\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Users\xavier\Desktop\Socket\Client\Client\obj\x86\Debug\Client.exe
+E:\Users\xavier\Desktop\Socket\Client\Client\obj\x86\Debug\Client.pdb
+E:\Users\xavier\Desktop\Socket\Compiled\Client.exe
+E:\Users\xavier\Desktop\Socket\Compiled\Client.pdb

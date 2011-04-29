@@ -1,0 +1,11 @@
+E:\Users\xavier\Desktop\Socket\Server\Server\bin\Debug\Server.exe
+E:\Users\xavier\Desktop\Socket\Server\Server\bin\Debug\Server.pdb
+E:\Users\xavier\Desktop\Socket\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\xavier\Desktop\Socket\Server\Server\obj\x86\Debug\Server.exe
+E:\Users\xavier\Desktop\Socket\Server\Server\obj\x86\Debug\Server.pdb
+E:\Users\xavier\Desktop\Socket\Compiled\Server.exe
+E:\Users\xavier\Desktop\Socket\Compiled\Server.pdb
+E:\Users\xavier\Desktop\SocketC#\SocketC#\Server\Server\obj\x86\Debug\Server.exe
+E:\Users\xavier\Desktop\SocketC#\SocketC#\Server\Server\obj\x86\Debug\Server.pdb
+E:\UNFORGIVENWOW\Google Git\SocketC#\SocketC#\Server\obj\x86\Debug\Server.exe
+E:\UNFORGIVENWOW\Google Git\SocketC#\SocketC#\Server\obj\x86\Debug\Server.pdb
