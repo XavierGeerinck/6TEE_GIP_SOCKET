@@ -1,0 +1,12 @@
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\DarkTCP Client\bin\Debug\DarkTCP Client.exe
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\DarkTCP Client\bin\Debug\DarkTCP Client.pdb
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\DarkTCP Client\bin\Debug\DarkTunnel.dll
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\DarkTCP Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\DarkTCP Client\obj\x86\Debug\DarkTCP_Client.Form1.resources
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\DarkTCP Client\obj\x86\Debug\DarkTCP_Client.Properties.Resources.resources
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\DarkTCP Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\DarkTCP Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\DarkTCP Client\obj\x86\Debug\DarkTCP Client.exe
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\DarkTCP Client\obj\x86\Debug\DarkTCP Client.pdb
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\Compiled\DarkTCP Client.exe
+E:\UNFORGIVENWOW\Google Git\SocketC#\6TEE_GIP_SOCKET\SocketC#New\Compiled\DarkTCP Client.pdb
